@@ -230,7 +230,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-Created by **Mukul Singh**
+Created by **Utkrisht Kumar Singh**
 
 ## 🔮 Future Enhancements
 
